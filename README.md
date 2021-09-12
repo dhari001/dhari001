@@ -1,4 +1,4 @@
-<a href=""><img src="/assets/header.png" width="260px"></a>
+<a href=""><img src="/assets/header.png"></a>
 ### Hi there 👋
 
 <!--
