@@ -1,4 +1,5 @@
-<a href=""><img src="/assets/header.png"></a>
+
+[![Header](/assets/header.png "Header")](https://martinheinz.dev/)
 ### Hi there 👋
 
 <!--
