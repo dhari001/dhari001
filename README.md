@@ -3,7 +3,7 @@
 
 
 
-## 😄 Hello & Welcome 
+## 🤝🏼 Hello & Welcome 
 My name is Dharitri Dixit, and I'm a third year software engineering student at the University of Ottawa, and am currently looking for a coop for Summer 2022. 
 
 
