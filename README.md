@@ -25,6 +25,6 @@ My name is Dharitri Dixit, and I'm a third year software engineering student at 
 
 
 ### ⏰ Current 
-- 💻 I’m working with [Rockport Networks](https://rockportnetworks.com/) as a Student Test Engineer
-- 💬 Ask me about my role as a PM at [Software for Love](https://www.softwareforlove.com/)
+- 💻 I completed my work term with [Rockport Networks](https://rockportnetworks.com/) as a Student Test Engineer in December, 2021
+- 💬 Ask me about my role as a CTO at [Software for Love](https://www.softwareforlove.com/)
 - 💡 I'm curious about data and am trying to learn how to clean and create softwares with big data sets 
