@@ -25,6 +25,6 @@ My name is Dharitri Dixit, and I'm a third year software engineering student at 
 
 
 ### ⏰ Current 
-- 💻 I am doing my Summer 2022 CO-OP at [Flipp](https://flipp.com/home) as a Software Developer. 
+- 💻 I am doing my Summer and Fall 2022 CO-OP at [Flipp](https://flipp.com/home) as a Software Developer. 
 - 💬 Ask me about my role as a CTO at [Software for Love](https://www.softwareforlove.com/)
-- 💡 I'm curious about data and am trying to learn how to clean and create softwares with big data sets 
+- 💡 I'm curious about Android architecture and how to design it to keep up with the ever evolving new design patterns
