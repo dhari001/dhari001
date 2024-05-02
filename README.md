@@ -28,5 +28,5 @@ My name is Dharitri Dixit, and I'm a New Grad Software Engineer. I have earned a
 
 
 ### ⏰ Current 
-- 💻 My last job was at [Flipp](https://flipp.com/home) as a Software Engineer working with an Android app and various microservices. 
-- 💡 I'm curious about the theory of C++ and how to build various applications using it. 
+- 💻 My last job was at [Flipp](https://flipp.com/home) as a Software Engineer working with an Android app and various microservices.
+- 💡 I'm curious about the different aspects of the industry where I can engage in application development
